@@ -4,7 +4,7 @@
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
-6. [Descriptif video] (#video)
+6. [Descriptif Video](#video)
 ### General Info
 ***
 Guitarista is a serious game, giving the opportunity to its users to learn how to play the guitar through simplified lessons and track their progress via quizzes.
@@ -17,7 +17,7 @@ https://drive.google.com/drive/folders/1V1g8c2_oMol6BcoZ04bcpPT1DVGa68i7?usp=sha
 ## Technologies
 ***
 A list of technologies used within the project:
-* [Dart](Flutter as an open source framework): Version 1.0.0+1 
+* [Dart (Flutter as an open source framework](https://https://flutter.dev): Version 1.0.0+1 
 * [Data Base](https://firebase.google.com)
 * [package:flutter/material.dart]
 
@@ -49,7 +49,7 @@ The application will be available on phones stores for free as a beginning.
 3. **Is there any audio or video content in the app?**
 This type of content was a challenge for the team to developp, so for now there is no such metter. But we aim to acquire more experience and knowledge to acheive this objective.
 
-## Descriptif video
+## Descriptif Video
 ***
 
 You will find in the link below a video explaining how the game works and a preview of how it looks:
