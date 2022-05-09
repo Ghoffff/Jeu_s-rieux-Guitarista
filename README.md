@@ -51,3 +51,5 @@ This type of content was a challenge for the team to developp, so for now there 
 
 ## Descriptif Video
 ***
+You will find in the link below a video explaining how the game works and a preview of how it looks:
+https://youtu.be/4E-cGfPIyYg
