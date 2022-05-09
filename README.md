@@ -17,7 +17,7 @@ https://drive.google.com/drive/folders/1V1g8c2_oMol6BcoZ04bcpPT1DVGa68i7?usp=sha
 ## Technologies
 ***
 A list of technologies used within the project:
-* [Dart (Flutter as an open source framework](https://https://flutter.dev): Version 1.0.0+1 
+* [Dart (Flutter as an open source framework)](https://https://flutter.dev): Version 1.0.0+1 
 * [Data Base](https://firebase.google.com)
 * [package:flutter/material.dart]
 
